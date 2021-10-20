@@ -1,0 +1,5 @@
+C:\Users\Sebi\source\repos\slnLibreriaColecciones\Entidades\bin\Debug\Entidades.dll
+C:\Users\Sebi\source\repos\slnLibreriaColecciones\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Sebi\source\repos\slnLibreriaColecciones\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Sebi\source\repos\slnLibreriaColecciones\Entidades\obj\Debug\Entidades.dll
+C:\Users\Sebi\source\repos\slnLibreriaColecciones\Entidades\obj\Debug\Entidades.pdb

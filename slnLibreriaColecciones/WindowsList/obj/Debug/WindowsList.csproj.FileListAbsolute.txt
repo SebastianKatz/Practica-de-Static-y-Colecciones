@@ -1,0 +1,14 @@
+C:\Users\Sebi\source\repos\slnLibreriaColecciones\WindowsList\bin\Debug\WindowsList.exe.config
+C:\Users\Sebi\source\repos\slnLibreriaColecciones\WindowsList\bin\Debug\WindowsList.exe
+C:\Users\Sebi\source\repos\slnLibreriaColecciones\WindowsList\bin\Debug\WindowsList.pdb
+C:\Users\Sebi\source\repos\slnLibreriaColecciones\WindowsList\bin\Debug\Entidades.dll
+C:\Users\Sebi\source\repos\slnLibreriaColecciones\WindowsList\bin\Debug\Entidades.pdb
+C:\Users\Sebi\source\repos\slnLibreriaColecciones\WindowsList\obj\Debug\WindowsList.csproj.AssemblyReference.cache
+C:\Users\Sebi\source\repos\slnLibreriaColecciones\WindowsList\obj\Debug\WindowsList.Form1.resources
+C:\Users\Sebi\source\repos\slnLibreriaColecciones\WindowsList\obj\Debug\WindowsList.Properties.Resources.resources
+C:\Users\Sebi\source\repos\slnLibreriaColecciones\WindowsList\obj\Debug\WindowsList.csproj.GenerateResource.cache
+C:\Users\Sebi\source\repos\slnLibreriaColecciones\WindowsList\obj\Debug\WindowsList.csproj.CoreCompileInputs.cache
+C:\Users\Sebi\source\repos\slnLibreriaColecciones\WindowsList\obj\Debug\WindowsList.exe
+C:\Users\Sebi\source\repos\slnLibreriaColecciones\WindowsList\obj\Debug\WindowsList.pdb
+C:\Users\Sebi\source\repos\slnLibreriaColecciones\WindowsList\obj\Debug\WindowsList.frmCaso2.resources
+C:\Users\Sebi\source\repos\slnLibreriaColecciones\WindowsList\obj\Debug\WindowsList.frmCaso3.resources
